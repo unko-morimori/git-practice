@@ -28,10 +28,10 @@ body{
      line-height:120%;
      font-family: 'Arial Black','ヒラギノ角ゴシック','Hiragino Sans','メイリオ', Meiryo,'ヒラギノ角ゴ StdN','Hiragino Kaku Gothic StdN',sans-serif;
      color:#cccccc;
-     //background-color:black;
+     background-color:black;
  }
 
  img.example2 {
     width: 50%;
-    height: 400px;
+    height: 50%;
     }
